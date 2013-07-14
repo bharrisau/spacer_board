@@ -1,5 +1,5 @@
 M48
-;DRILL file {Pcbnew (2013-mar-13)-testing} date Sun 30 Jun 2013 20:15:13 WST
+;DRILL file {Pcbnew (2013-mar-13)-testing} date Mon 01 Jul 2013 17:25:33 WST
 ;FORMAT={-:-/ absolute / metric / decimal}
 FMAT,2
 METRIC,TZ
@@ -29,5 +29,8 @@ X142.Y-129.
 X142.Y-133.
 X142.Y-141.
 X142.Y-145.
+T1
+X112.Y-131.975G85X112.Y-141.025
+G05
 T0
 M30
